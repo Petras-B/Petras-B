@@ -1,29 +1,25 @@
-# 💻 Welcome to My GitHub!
+<h1 align="center">Hi 👋, I'm Petras Bazdaras</h1>
+<h3 align="center">A passionate frontend developer from the United Kingdom</h3>
 
-Hi there! 👋 I'm Petras Bazdaras, an **aspiring software developer** with a passion for crafting innovative solutions and diving into new technologies. As a **current student**, I'm on an exciting journey to sharpen my skills in:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petras-b&label=Profile%20views&color=0e75b6&style=flat" alt="petras-b" /> </p>
 
-- 🧑‍💻 **Coding:** Building clean, efficient, and functional code.  
-- 🧩 **Problem-Solving:** Tackling challenges with creativity and logic.  
-- 🛠️ **Software Design:** Designing impactful solutions to real-world problems.  
+- 🔭 I’m currently working on **a Web application**
 
-## 🌟 What I’m Working On
-I'm actively exploring projects that push my boundaries, whether it’s mastering new frameworks, contributing to open-source, or creating apps that solve everyday problems.  
+- 🌱 I’m currently learning **about system design**
 
-## 🛠️ Tech Stack
-- **Languages:** Pyhton (Proficient)
-- **Frameworks/Tools:** Git / Godot
-- **Game Development:** Godot Engine 
+- 👯 I’m looking to collaborate on **anything!**
 
-## 🚀 Goals
-My ultimate goal is to make a meaningful impact in the tech industry by leveraging my skills and passion for innovation. Follow along as I document my learning journey and share my creations!
+- 🤝 I’m looking for help with **Sqlite database integration**
 
-## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/petrasb/)
+- 👨‍💻 All of my projects are available at [https://github.com/Petras-B](https://github.com/Petras-B)
 
-Let's build something amazing together! 🚀
+- 💬 Ask me about **coding in python**
 
+- 📫 How to reach me **E4038896@live.tees.ac.uk**
 
-<!---
-Petras-B/Petras-B is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact **I can benchpress 225lbs**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petras-b&show_icons=true&locale=en" alt="petras-b" /></p>
