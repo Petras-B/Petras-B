@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **coding in python**
 
-- 📫 How to reach me **E4038896@live.tees.ac.uk**
-
 - ⚡ Fun fact **I can benchpress 225lbs**
 
 <h3 align="left">Languages and Tools:</h3>
