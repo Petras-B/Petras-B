@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Petras Bazdaras</h1>
 <h3 align="center">A passionate software developer from the United Kingdom</h3>
 
-- 🔭 I’m currently working on **a Web application**
+- 🔭 I’m currently working on **CS50**
 
 - 🌱 I’m currently learning **about system design**
 
